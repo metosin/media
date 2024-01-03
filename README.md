@@ -16,9 +16,9 @@ This repository includes media assets for [Metosin Oy](http://metosin.fi)
 <table>
 <tr>
 <td></td>
-<td style="background-color: #FFE160; color; #000; ">Humane Yellow</td>
-<td style="background-color: #FFDCD4; color: #000; ">Unconventional Pink</td>
-<td style="background-color: #CDE1BE; color: #000; ">Sapient Green</td>
+<td>Humane Yellow</td>
+<td>Unconventional Pink</td>
+<td>Sapient Green</td>
 <td>Perceptive Black</td>
 <td>Perceptive White</td>
 </tr>
