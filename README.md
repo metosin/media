@@ -15,6 +15,7 @@ This repository includes media assets for [Metosin Oy](http://metosin.fi)
 
 <table>
 <tr>
+<td></td>
 <td>Humane Yellow</td>
 <td>Unconventional Pink</td>
 <td>Sapient Green</td>
