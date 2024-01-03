@@ -24,6 +24,14 @@ This repository includes media assets for [Metosin Oy](http://metosin.fi)
 </tr>
 <tr>
 <td>RGB</td>
+<td>rgb(255, 225, 96)</td>
+<td>rgb(255, 220, 212)</td>
+<td>rgb(205, 225, 190)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Hex</td>
 <td>#FFE160</td>
 <td>#FFDCD4</td>
 <td>#CDE1BE</td>
