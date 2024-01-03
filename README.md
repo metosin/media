@@ -2,6 +2,15 @@
 
 This repository includes media assets for [Metosin Oy](http://metosin.fi)
 
+## Logo spacing
+
+![margins](margins.png)
+
+## Fonts
+
+- Nimbus Sans
+- Nimbus Sans Metosin (custom alternate glyphs)
+
 ## Colors
 
 <table>
