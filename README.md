@@ -15,20 +15,25 @@ This repository includes media assets for [Metosin Oy](http://metosin.fi)
 
 <table>
 <tr>
-<td>Yellow</td>
-<td>Pink</td>
-<td>Green grey</td>
-<td></td>
+<td>Humane Yellow</td>
+<td>Unconventional Pink</td>
+<td>Sapient Green</td>
+<td>Perceptive Black</td>
+<td>Perceptive White</td>
 </tr>
 <tr>
 <td>RGB</td>
-<td></td>
+<td>#FFE160</td>
+<td>#FFDCD4</td>
+<td>#CDE1BE</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>CMYK</td>
-<td></td>
+<td>0, 2, 83, 0</td>
+<td>0, 20, 20, 0</td>
+<td>25, 0, 45, 0</td>
 <td></td>
 <td></td>
 </tr>
